@@ -67,6 +67,7 @@
             "code": 140
           }
         ],
+        "no-inferrable-types": false,
         "no-new-wrappers": "error",
         "no-throw-literal": "error",
         "import/no-unresolved": "off",
